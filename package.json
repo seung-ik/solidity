@@ -1,0 +1,11 @@
+{
+  "name": "solidity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/seung-ik/solidity.git",
+  "author": "seung-ik <5seungik@traum.biz>",
+  "license": "MIT",
+  "dependencies": {
+    "docker": "^1.0.0"
+  }
+}
